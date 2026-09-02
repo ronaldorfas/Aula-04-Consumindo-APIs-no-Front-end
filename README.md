@@ -328,7 +328,7 @@ Criar uma API usando **Express**, fazer o deploy no **Render** e desenvolver um 
 
 🔗 **GitHub:** [(https://github.com/ronaldorfas/Projetocom-API)]
 
-🔗 **Vercel:** `COLE_AQUI_O_LINK_DA_VERCEL`
+🔗 **Vercel:** [(https://projetocom-api.vercel.app/)]
 
 ---
 
