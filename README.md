@@ -320,13 +320,13 @@ Criar uma API usando **Express**, fazer o deploy no **Render** e desenvolver um 
 
 ### 🧩 Projeto 01 — API
 
-🔗 **GitHub:** `https://github.com/ronaldorfas/API-express`
+🔗 **GitHub:** [(https://github.com/ronaldorfas/API-express)]
 
 🔗 **Render:** `COLE_AQUI_O_LINK_DO_RENDER`
 
 ### 🖥️ Projeto 01 — Front-end
 
-🔗 **GitHub:** `COLE_AQUI_O_LINK_DO_FRONTEND`
+🔗 **GitHub:** [(https://github.com/ronaldorfas/Projetocom-API)]
 
 🔗 **Vercel:** `COLE_AQUI_O_LINK_DA_VERCEL`
 
