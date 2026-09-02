@@ -320,7 +320,7 @@ Criar uma API usando **Express**, fazer o deploy no **Render** e desenvolver um 
 
 ### 🧩 Projeto 01 — API
 
-🔗 **GitHub:** `COLE_AQUI_O_LINK_DO_GITHUB`
+🔗 **GitHub:** `https://github.com/ronaldorfas/API-express`
 
 🔗 **Render:** `COLE_AQUI_O_LINK_DO_RENDER`
 
